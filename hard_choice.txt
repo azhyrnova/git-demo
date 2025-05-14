@@ -1,0 +1,9 @@
+1.Warriors fight up close with strength; mages attack from afar with magic.
+
+2.Warriors wear heavy armor; mages wear light robes.
+
+3.Mages use mana; warriors rely on stamina or rage.
+
+4.Warriors charge in; mages cast from a distance.
+
+5.One uses force, the other uses knowledge.
